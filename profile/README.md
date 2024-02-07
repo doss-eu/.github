@@ -25,7 +25,7 @@ DOSS's robust procedures and technology will undergo validation across three IoT
 DOSS represents a pioneering step towards implementing the principles outlined in the European Cyber Resilience Act. By providing an operational reference model and policy recommendations, DOSS aims to contribute significantly to standardization efforts in the field of IoT security.
 
 - Grant agreement ID: [101120270](https://cordis.europa.eu/project/id/101120270)
-- Official Website: [DOSS Project Website](https://www.doss-project.eu/).
+- Official Website: [DOSS Project Website](https://dossproject.eu).
 - Social Media: [Twitter](https://twitter.com/DOSSprojectHE), and [LinkedIn](https://www.linkedin.com/company/dossproject-eu/)
 - Contact: [info@dossproject.eu](mailto:info@dossproject.eu)
 
