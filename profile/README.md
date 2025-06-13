@@ -1,6 +1,6 @@
-# DOSS (Digital Operations Security System)
+# DOSS (DESIGN AND OPERATION OF SECURE IoT SUPPLY CHAIN)
 
-DOSS, or Digital Operations Security System, is an innovative project funded under the Horizon Europe programme. DOSS elaborates a secure-by-design methodology and implements related technology for complex Internet of Things (IoT) architectures, based on supply chain monitoring, component testing, and architecture modelling.
+DOSS, or Design and Operation of Secure IoT Supply Chain, is an innovative project funded under the Horizon Europe programme. DOSS elaborates a secure-by-design methodology and implements related technology for complex Internet of Things (IoT) architectures, based on supply chain monitoring, component testing, and architecture modelling.
 
 - Grant agreement ID: [101120270](https://cordis.europa.eu/project/id/101120270)
 - Official Website: [DOSS Project Website](https://dossproject.eu).
